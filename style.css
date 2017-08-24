@@ -30,14 +30,17 @@ d{
   font-size:5px;
   font-family:Verdana,sans-serif;
 
-.hero {
-	background-image: url('https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeXAAAAJDFmMDk0ZWVjLTNkYWEtNDQwOC1hODQ0LTk2MDEyM2U4NzlkNQ.jpg');
-	background-position: center top;
-	background-size: cover;
-	padding: 250px 0;
-	margin: 30px;
-	text-shadow: 0 2px #000000;
-	font-family: 'Trebuchet MS', 'Helvetica';
+nav {
+  background-color: #FFF;
+}
+
+nav li {display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
+
+nav ul {
+  display: inline;
 }
 
   
