@@ -3,3 +3,16 @@ d{
   background-color:blue
   height:100px;
   width:100px,
+
+}
+#header{
+  position:fixed;
+  z-index:1;
+  
+}
+.left{
+  float:left
+    
+}right
+.right{
+  float:right
