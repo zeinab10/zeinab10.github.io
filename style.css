@@ -11,7 +11,7 @@ d{
   width:100px;
   margin-top:-20px;
   heigh:100px;
-  backgroun-color:blue;
+  background-color:blue;
   margin-bottom:10px;
 }
 #name{
@@ -19,8 +19,8 @@ d{
   marging-left:5px;
   padding-top:5px;
   font-size:16px;
-  font-family:times; 
-  color:blue;
+  font-family:Verdana, sans-serif;
+  color:#ffffff;
        
 }
 .right{
