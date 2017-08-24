@@ -13,6 +13,10 @@ d{
 .left{
   float:left
     
-}right
+}
 .right{
   float:right
+
+}
+#footer{
+  clear: both;
