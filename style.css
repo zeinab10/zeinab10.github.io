@@ -1,10 +1,4 @@
-html { 
-  background: <img src="https://www.sciencedaily.com/images/2017/06/170615133233_1_540x360.jpg)no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 d{
   border-radius:5px;
   background-color:blue;
