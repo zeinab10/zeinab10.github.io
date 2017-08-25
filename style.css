@@ -87,7 +87,20 @@ nav a {
  .tablerow {
     display: table-row;
 } 
-       
+
+  .cell {
+    display: table-cell;
+}
+
+.onlinecell {
+    font-style: italic;
+    padding-right: 10px;
+}
+
+.urlcell {
+    display: table-cell;
+    letter-spacing: 1px;
+}
 
 .right{
   float:right
