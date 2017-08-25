@@ -67,10 +67,28 @@ nav a {
   text-decoration: none;
 }
 
-
-  
-       
+  .edtable {
+    display: table;
+    width: 100%;
+    margin-left: 20px;
+    padding-bottom: 15px;
 }
+  
+.skillstable {
+    display: table;
+    width: 100%;
+}
+
+.table {
+    display: table;
+    margin-left: 20px;
+}
+
+ .tablerow {
+    display: table-row;
+} 
+       
+
 .right{
   float:right
 
