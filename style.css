@@ -77,3 +77,9 @@ nav a {
 }
 #footer{
   clear: both;
+
+  img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
