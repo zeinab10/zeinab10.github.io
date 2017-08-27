@@ -14,6 +14,11 @@ d{
   background-color:#668284;
   margin-bottom:10px;
 }
+ background-image: url(img_flwr.gif), url(paper.gif);
+    background-position: right bottom;
+    background-repeat:  repeat;
+    padding: 15px;
+
 #name{
   float:left;
   marging-left:5px;
