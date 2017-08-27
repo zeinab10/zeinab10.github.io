@@ -3,7 +3,9 @@ d{
   background-color:blue;
   height:100px;
   width:100px,
-    
+ body {
+  background: linear-gradient(black, white);
+}   
 }
 #header{
   position:fixed;
