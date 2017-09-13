@@ -4,8 +4,8 @@ d{
   height:100px;
   width:100px,
  
-    body {
-  background: linear-gradient(black, white);
+  html {
+  background-color: #00539F;
 }
   
 }
