@@ -4,9 +4,10 @@ d{
   height:100px;
   width:100px,
  
-  html {
-  background-color: #00539F;
+body {
+  background: linear-gradient(black, white);
 }
+
   
 }
 #header{
