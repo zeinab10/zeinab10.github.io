@@ -22,7 +22,7 @@ body {
 }
 
 #name{
-  float:left;
+  float:right;
   marging-left:5px;
   padding-top:5px;
   font-size:16px;
